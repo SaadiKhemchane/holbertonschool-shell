@@ -14,8 +14,18 @@ Reading Man Pages
 Keyboard Shortcuts for Bash
 
 ```
-### 🔨 Tasks :
+### 🔨 Tech stack
+```
 
+<p align="left">
+    <img src="https://img.shields.io/badge/Shell-000000?logo=powerShell&logoColor=white&style=for-the-badge" alt="Shell badge">
+    <img src="https://img.shields.io/badge/UBUNTU-e95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu badge">
+    <img src="https://img.shields.io/badge/VIM-019733?logo=vim&logoColor=white&style=for-the-badge" alt="VIM badge">
+<p>
+
+```
+
+## 📝 Requirements
 ```
 
 0. Where am I?
